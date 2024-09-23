@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b3b1bac-c246-4855-8bfd-fb35823a3b78" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/akarKuadrat.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/argumenDefault.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array2D.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayListOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayStd.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/breakContinue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/breakContinue2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionExp.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ekspesi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ekspresiTunggal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elvisOperator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forLoopX.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forLoopXEkspo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fungsi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fungsi2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kalkulator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kalkulatorWhen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lat1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/listOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/luasKelLingkaran.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methodArr.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multiArr.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mutableListOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/null.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator!.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pair.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/percabangan.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/percabangan2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/periksaNull.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primitiveArr.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ranges.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/return.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/safeCall.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/temArrayStd.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/when.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whileDoWhileLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whileLoopX.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2lpL4PIQBO5ZEmDFTOopzZdJyk0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Kotlin.LambdaKt">
+    <configuration name="ArgumenDefaultKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArgumenDefaultKt" />
+      <module name="Kotlin2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EkspresiTunggalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EkspresiTunggalKt" />
+      <module name="Kotlin2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fungsi2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fungsi2Kt" />
+      <module name="Kotlin2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaKt" />
+      <module name="Kotlin2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PairKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PairKt" />
+      <module name="Kotlin2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.LambdaKt" />
+        <item itemvalue="Kotlin.ArgumenDefaultKt" />
+        <item itemvalue="Kotlin.EkspresiTunggalKt" />
+        <item itemvalue="Kotlin.PairKt" />
+        <item itemvalue="Kotlin.Fungsi2Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b3b1bac-c246-4855-8bfd-fb35823a3b78" name="Changes" comment="" />
+      <created>1725871882663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725871882663</updated>
+    </task>
+    <servers />
+  </component>
+</project>
